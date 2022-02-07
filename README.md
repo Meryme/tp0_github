@@ -1,4 +1,4 @@
 const test() => {
-console.log("its'me")
+console.log("its'me");
 }
 starting with github
